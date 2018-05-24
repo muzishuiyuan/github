@@ -1,1 +1,1 @@
-git is version control system
+git is version control systemCreating a new branch is quick.
